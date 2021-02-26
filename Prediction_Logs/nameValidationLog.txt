@@ -1,0 +1,51 @@
+2020-02-19/17:28:33		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/17:29:41		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/17:32:07		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/17:35:14		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-04-12/21:45:57		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv
+2020-04-12/21:45:57		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_28011961_12.csv
+2020-04-12/21:45:57		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011962_120212.csv
+2020-04-12/21:45:57		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011963_120213.csv
+2021-02-26/22:01:08		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/default of credit card clients.xls'
+2021-02-26/22:02:15		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/default of credit card clients.xls'
+2021-02-26/22:02:51		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv
+2021-02-26/22:02:51		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_28011961_12.csv
+2021-02-26/22:02:51		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011962_120212.csv
+2021-02-26/22:02:51		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011963_120213.csv
+2021-02-26/22:07:36		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv
+2021-02-26/22:07:36		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_28011961_12.csv
+2021-02-26/22:07:36		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011962_120212.csv
+2021-02-26/22:07:36		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011963_120213.csv
+2021-02-26/22:10:15		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv
+2021-02-26/22:10:15		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_28011961_12.csv
+2021-02-26/22:10:15		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011962_120212.csv
+2021-02-26/22:10:15		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011963_120213.csv
+2021-02-26/22:10:44		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/.ipynb_checkpoints'
+2021-02-26/22:11:10		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv
+2021-02-26/22:11:10		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_28011961_12.csv
+2021-02-26/22:11:10		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011962_120212.csv
+2021-02-26/22:11:10		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011963_120213.csv
+2021-02-26/22:23:55		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv
+2021-02-26/22:23:55		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_28011961_12.csv
+2021-02-26/22:23:55		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011962_120212.csv
+2021-02-26/22:23:55		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011963_120213.csv
+2021-02-26/22:27:52		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv
+2021-02-26/22:27:52		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_28011961_12.csv
+2021-02-26/22:27:52		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011962_120212.csv
+2021-02-26/22:27:52		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011963_120213.csv
+2021-02-26/23:12:04		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv
+2021-02-26/23:12:04		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_28011961_12.csv
+2021-02-26/23:12:04		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011962_120212.csv
+2021-02-26/23:12:04		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011963_120213.csv
+2021-02-26/23:13:43		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv
+2021-02-26/23:13:43		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_28011961_12.csv
+2021-02-26/23:13:43		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011962_120212.csv
+2021-02-26/23:13:43		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011963_120213.csv
+2021-02-26/23:29:35		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv
+2021-02-26/23:29:35		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_28011961_12.csv
+2021-02-26/23:29:35		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011962_120212.csv
+2021-02-26/23:29:35		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011963_120213.csv
+2021-02-26/23:30:15		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv
+2021-02-26/23:30:15		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_28011961_12.csv
+2021-02-26/23:30:15		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011962_120212.csv
+2021-02-26/23:30:15		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011963_120213.csv
